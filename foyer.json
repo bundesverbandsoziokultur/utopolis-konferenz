@@ -116,6 +116,12 @@
          "id":16,
          "name":"Collide W\u00e4nde",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":128,
