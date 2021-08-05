@@ -423,6 +423,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":4,
                  "properties":[
                         {
@@ -441,6 +450,12 @@
          "imagewidth":1280,
          "margin":0,
          "name":"Foyer_Tileset",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":false
+                }],
          "spacing":0,
          "tilecount":1600,
          "tileheight":32,
