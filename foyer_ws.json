@@ -473,6 +473,19 @@
          "tilecount":672,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":33,
+         "firstgid":2345,
+         "image":"assets\/tilesets\/Standorte_Tileset.png",
+         "imageheight":1280,
+         "imagewidth":1056,
+         "margin":0,
+         "name":"Standorte_Tileset",
+         "spacing":0,
+         "tilecount":1320,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
