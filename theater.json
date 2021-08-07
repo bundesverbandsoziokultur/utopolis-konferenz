@@ -53,8 +53,8 @@
          "properties":[
                 {
                  "name":"Collides",
-                 "type":"color",
-                 "value":""
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
