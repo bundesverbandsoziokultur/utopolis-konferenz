@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"foyer.json#startTheaterFoyer"
+                 "value":"foyer.json#startTheater"
                 }],
          "type":"tilelayer",
          "visible":true,
