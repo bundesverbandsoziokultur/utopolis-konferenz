@@ -228,7 +228,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"standorte.json"
+                 "value":"standorte.json#start_standorte_foyer"
                 }],
          "type":"tilelayer",
          "visible":true,
