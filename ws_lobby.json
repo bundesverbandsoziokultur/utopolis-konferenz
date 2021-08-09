@@ -180,7 +180,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ws_1.json"
+                 "value":"ws_1.json#start_ws1"
                 }],
          "type":"tilelayer",
          "visible":true,
