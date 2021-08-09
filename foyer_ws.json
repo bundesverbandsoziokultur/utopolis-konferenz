@@ -258,7 +258,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"foyer.json#startKino"
+                 "value":"foyer.json#startWsFoyer"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -476,13 +476,13 @@
          "margin":0,
          "name":"WS_Tileset",
          "spacing":0,
-         "tilecount":672,
+         "tilecount":624,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
          "columns":33,
-         "firstgid":2345,
+         "firstgid":2297,
          "image":"assets\/tilesets\/Standorte_Tileset.png",
          "imageheight":1280,
          "imagewidth":1056,
