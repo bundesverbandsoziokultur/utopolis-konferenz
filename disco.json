@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"foyer.json#start_disco"
+                 "value":"foyer.json#start_disco_foyer"
                 }],
          "type":"tilelayer",
          "visible":true,
