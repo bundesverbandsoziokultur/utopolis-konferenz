@@ -46,7 +46,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"url",
                  "type":"string",
                  "value":"https:\/\/bbb.cyber4edu.org\/b\/elm-3qj-j4p-vpf"
                 }],
