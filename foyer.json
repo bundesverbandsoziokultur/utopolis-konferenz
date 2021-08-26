@@ -368,6 +368,12 @@
          "id":26,
          "name":"jitsi_links",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"foyer-links"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":128,
@@ -380,6 +386,12 @@
          "id":27,
          "name":"jitsi_rechts",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"foyer-rechts"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":128,
@@ -533,7 +545,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
