@@ -44,6 +44,12 @@
          "id":16,
          "name":"Jitsi_DJ",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"disco-dj"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -56,6 +62,12 @@
          "id":17,
          "name":"Jitsi_Bar",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"disco-bar"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -68,6 +80,12 @@
          "id":18,
          "name":"Jitsi_Lounge",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"disco-lounge"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
