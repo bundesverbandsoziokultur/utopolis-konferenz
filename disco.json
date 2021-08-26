@@ -102,7 +102,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":" http:\/\/85.214.243.65:8000\/mnt.m3u"
+                 "value":" http:\/\/85.214.243.65:8000\/mnt"
                 }],
          "type":"tilelayer",
          "visible":true,
