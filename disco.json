@@ -98,6 +98,12 @@
          "id":15,
          "name":"audio_disco",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":" http:\/\/85.214.243.65:8000\/source"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
