@@ -319,6 +319,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/utopolis.teamplattform.net\/index.php\/s\/XEjot3emDsYgNjT"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Du wirst nun zum Info-Upload \u00fcber unsere Nextcloud weitergeleitet. Bitte klicke dort oben auf das Plus-Symbol, um Dateien hochzuladen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -332,6 +342,12 @@
          "id":25,
          "name":"url_begr\u00fc\u00dfung",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/ySCuNlBVz-I"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":128,
