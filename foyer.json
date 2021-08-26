@@ -344,6 +344,12 @@
          "id":9,
          "name":"jitsi_helpdesk ",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"foyer-helpdesk"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":128,
@@ -356,6 +362,12 @@
          "id":14,
          "name":"jitsi_yoga",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"foyer-yoga"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":128,
