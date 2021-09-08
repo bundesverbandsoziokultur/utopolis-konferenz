@@ -364,7 +364,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"foyer-helpdesk"
+                 "value":"foyer-helpdesk-2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -382,7 +382,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"foyer-helpdesk"
+                 "value":"foyer-helpdesk-1"
                 }],
          "type":"tilelayer",
          "visible":true,
