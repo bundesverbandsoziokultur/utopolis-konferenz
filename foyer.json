@@ -260,6 +260,12 @@
          "id":31,
          "name":"audio_yoga",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/bundesverbandsoziokultur\/utopolis-konferenz\/blob\/gh-pages\/assets\/audio\/Wind-chimes-sound.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":128,
