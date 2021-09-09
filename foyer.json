@@ -264,7 +264,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/github.com\/bundesverbandsoziokultur\/utopolis-konferenz\/blob\/gh-pages\/assets\/audio\/Wind-chimes-sound.mp3"
+                 "value":"\/assets\/audio\/Wind-chimes-sound.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
