@@ -120,12 +120,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.twitch.tv\/embed?channel=bundesverbandsoziokultur"
+                 "value":"https:\/\/player.twitch.tv\/?channel=bundesverbandsoziokultur&parent=workadventure.utopolis.online"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen;camera;microphone;display-capture;parent=workadventure.utopolis.online"
+                 "value":"fullscreen;camera;microphone;display-capture"
                 }],
          "type":"tilelayer",
          "visible":true,

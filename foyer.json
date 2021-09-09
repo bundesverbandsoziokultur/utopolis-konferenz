@@ -262,7 +262,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"\/assets\/audio\/Wind-chimes-sound.mp3"
                 }],
