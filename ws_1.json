@@ -46,14 +46,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/bbb.soziokultur.de\/b\/kon-wql-gcm-bgo"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen;camera;microphone;display-capture"
                 }],
          "type":"tilelayer",
          "visible":true,
