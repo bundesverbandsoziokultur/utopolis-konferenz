@@ -269,7 +269,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/assets\/audio\/Wind-chimes-sound.mp3"
+                 "value":"\/assets\/audio\/meditation_background_music.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
