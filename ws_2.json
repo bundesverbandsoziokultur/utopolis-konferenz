@@ -58,7 +58,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccke <Leertaste>, um zum BigBlueButton Raum 2 zu wechseln."
+                 "value":"Dr\u00fccke <Leertaste>, um BigBlueButton Raum 2 in einem neuen Browser-Tab zu \u00f6ffnen."
                 }],
          "type":"tilelayer",
          "visible":true,
