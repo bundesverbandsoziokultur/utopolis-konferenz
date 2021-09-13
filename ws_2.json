@@ -46,14 +46,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/bbb.soziokultur.de\/b\/kon-lxt-jne-txh"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"fullscreen;camera;microphone;display-capture"
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um zum BigBlueButton Raum 2 zu wechseln."
                 }],
          "type":"tilelayer",
          "visible":true,
