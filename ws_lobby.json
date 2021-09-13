@@ -134,6 +134,12 @@
          "id":31,
          "name":"start_ws7",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,

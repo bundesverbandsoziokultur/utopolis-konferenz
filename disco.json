@@ -102,7 +102,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/85.214.243.65:8000\/source"
+                 "value":"https:\/\/streaming.backend-machine.com:8443\/source"
                 }],
          "type":"tilelayer",
          "visible":true,
