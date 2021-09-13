@@ -54,6 +54,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um zum BigBlueButton Raum 1 zu wechseln."
                 }],
          "type":"tilelayer",
          "visible":true,
