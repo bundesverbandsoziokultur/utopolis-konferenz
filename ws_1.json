@@ -49,6 +49,11 @@
                  "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/bbb.soziokultur.de\/b\/kon-wql-gcm-bgo"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
