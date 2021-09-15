@@ -400,6 +400,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"foyer-helpdesk-2"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um den Jitsi-Raum zu betreten."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -418,6 +428,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"foyer-helpdesk-1"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um den Jitsi-Raum zu betreten."
                 }],
          "type":"tilelayer",
          "visible":true,
