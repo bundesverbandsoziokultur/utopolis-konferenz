@@ -381,7 +381,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/ySCuNlBVz-I"
+                 "value":"https:\/\/www.youtube.com\/embed\/x2ywxNiDdK4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -638,7 +638,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -919,6 +919,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":128
 }
