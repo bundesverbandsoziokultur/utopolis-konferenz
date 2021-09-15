@@ -178,7 +178,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/nordstadt-im-rampenlicht\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/nordstadt-im-rampenlicht\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -196,7 +196,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/transformation-in-der-neustadt\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/transformation-in-der-neustadt\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -214,7 +214,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/die-wueste-lebt\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/die-wueste-lebt\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -232,7 +232,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/studio-mosaik\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/studio-mosaik\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -250,7 +250,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/plattenwechsel-wir-in-aktion\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/plattenwechsel-wir-in-aktion\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -268,7 +268,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/mut-im-revier\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/mut-im-revier\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -286,7 +286,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/kultur-lokal-machen\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/kultur-lokal-machen\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -304,7 +304,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/billstedt-united-united-cultural-empowerment\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/billstedt-united-united-cultural-empowerment\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -322,7 +322,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/europa-zentral\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/europa-zentral\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -340,7 +340,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/light-up-neunkirchen\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/light-up-neunkirchen\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -358,7 +358,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/langwasser-neu-entdecken\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/langwasser-neu-entdecken\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -376,7 +376,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/auf-die-plaetze\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/auf-die-plaetze\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -394,7 +394,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/hier-im-quartier\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/hier-im-quartier\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -412,7 +412,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/mosaikarbeit-treppenhausgestaltung-und-upcycling\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/mosaikarbeit-treppenhausgestaltung-und-upcycling\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -430,7 +430,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/social-body-building\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/social-body-building\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -448,7 +448,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/xb-lab-kultur-in-kreuzberg\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/standort\/xb-lab-kultur-in-kreuzberg\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -681,7 +681,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -761,6 +761,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":96
 }
