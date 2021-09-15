@@ -179,6 +179,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/nordstadt-im-rampenlicht\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -197,6 +207,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/transformation-in-der-neustadt\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -215,6 +235,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/die-wueste-lebt\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -233,6 +263,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/studio-mosaik\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -251,6 +291,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/plattenwechsel-wir-in-aktion\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -269,6 +319,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/mut-im-revier\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -287,6 +347,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/kultur-lokal-machen\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -305,6 +375,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/billstedt-united-united-cultural-empowerment\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -323,6 +403,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/europa-zentral\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -341,6 +431,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/light-up-neunkirchen\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -359,6 +459,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/langwasser-neu-entdecken\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -377,6 +487,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/auf-die-plaetze\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -395,6 +515,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/hier-im-quartier\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -413,6 +543,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/mosaikarbeit-treppenhausgestaltung-und-upcycling\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -431,6 +571,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/social-body-building\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -449,6 +599,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/konferenz2021.utopolis.online\/standort\/xb-lab-kultur-in-kreuzberg\/?script=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke <Leertaste>, um Dir diesen Standort anzuschauen."
                 }],
          "type":"tilelayer",
          "visible":true,
