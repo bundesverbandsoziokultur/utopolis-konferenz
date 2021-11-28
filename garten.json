@@ -62,6 +62,12 @@
          "id":32,
          "name":"jitsi_lagerfeuer",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"garten-lagerfeuer"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
