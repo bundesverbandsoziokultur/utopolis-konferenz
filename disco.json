@@ -102,7 +102,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/streaming.backend-machine.com:8443\/source"
+                 "value":"https:\/\/nextcloud.utopolis.online\/index.php\/s\/tmWYJkiwMfWRgyf"
                 }],
          "type":"tilelayer",
          "visible":false,
