@@ -367,12 +367,6 @@
          "id":19,
          "name":"url_timetable",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/zeitplan\/?script=false"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":128,
@@ -417,7 +411,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/x2ywxNiDdK4"
+                 "value":"https:\/\/www.youtube.com\/embed\/rhkZ2Yf3JcM"
                 }],
          "type":"tilelayer",
          "visible":true,
