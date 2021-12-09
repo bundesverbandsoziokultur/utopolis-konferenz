@@ -62,12 +62,6 @@
          "id":32,
          "name":"jitsi_lagerfeuer",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"garten-lagerfeuer"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -80,12 +74,6 @@
          "id":26,
          "name":"url_video_1_gesch\u00e4ftsstelle",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/rhkZ2Yf3JcM"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -98,12 +86,6 @@
          "id":27,
          "name":"url_video_2_utopolis",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/W_NemCZfCGQ"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -116,12 +98,6 @@
          "id":28,
          "name":"url_video_3_land_intakt",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/htyvNpa3g9c"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -134,12 +110,6 @@
          "id":29,
          "name":"url_video_4_neustart_kultur",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/YgvtqO5i7WA"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -152,12 +122,6 @@
          "id":30,
          "name":"url_video_5_neustart_sofort",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/nhlqX8Rcpbs"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -170,12 +134,6 @@
          "id":31,
          "name":"url_video_6_jugend_ins_zentrum",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/R6mhj8qqGsg"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -335,7 +293,7 @@
         {
          "columns":28,
          "firstgid":1,
-         "image":"assets\/tilesets\/Theater_Tileset.png",
+         "image":"..\/assets\/tilesets\/Theater_Tileset.png",
          "imageheight":768,
          "imagewidth":896,
          "margin":0,
@@ -348,7 +306,7 @@
         {
          "columns":19,
          "firstgid":673,
-         "image":"assets\/tilesets\/Disco_Tileset.png",
+         "image":"..\/assets\/tilesets\/Disco_Tileset.png",
          "imageheight":960,
          "imagewidth":608,
          "margin":0,
@@ -361,7 +319,7 @@
         {
          "columns":40,
          "firstgid":1243,
-         "image":"assets\/tilesets\/Foyer_Tileset.png",
+         "image":"..\/assets\/tilesets\/Foyer_Tileset.png",
          "imageheight":1280,
          "imagewidth":1280,
          "margin":0,
@@ -374,7 +332,7 @@
         {
          "columns":9,
          "firstgid":2843,
-         "image":"assets\/tilesets\/hidden_layers.png",
+         "image":"..\/assets\/tilesets\/hidden_layers.png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
@@ -397,7 +355,7 @@
         {
          "columns":33,
          "firstgid":2915,
-         "image":"assets\/tilesets\/Standorte_Tileset.png",
+         "image":"..\/assets\/tilesets\/Standorte_Tileset.png",
          "imageheight":1280,
          "imagewidth":1056,
          "margin":0,
@@ -410,7 +368,7 @@
         {
          "columns":26,
          "firstgid":4235,
-         "image":"assets\/tilesets\/WS_Tileset.png",
+         "image":"..\/assets\/tilesets\/WS_Tileset.png",
          "imageheight":768,
          "imagewidth":832,
          "margin":0,
@@ -423,7 +381,7 @@
         {
          "columns":30,
          "firstgid":4859,
-         "image":"assets\/tilesets\/Garten_Tileset.png",
+         "image":"..\/assets\/tilesets\/Garten_Tileset.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
