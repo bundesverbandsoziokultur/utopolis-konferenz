@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/rhkZ2Yf3JcM"
+                 "value":"https:\/\/player.vimeo.com\/video\/653484451?h=f7889433a6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,7 +102,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/W_NemCZfCGQ"
+                 "value":"https:\/\/player.vimeo.com\/video\/653484783?h=12f85fa82f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,7 +120,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/htyvNpa3g9c"
+                 "value":"https:\/\/player.vimeo.com\/video\/653483965?h=bb050c5200"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -138,7 +138,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/YgvtqO5i7WA"
+                 "value":"https:\/\/player.vimeo.com\/video\/653485406?h=338e25102c"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -156,7 +156,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/R6mhj8qqGsg"
+                 "value":"https:\/\/player.vimeo.com\/video\/653486380?h=9ff297bd68"
                 }],
          "type":"tilelayer",
          "visible":true,
