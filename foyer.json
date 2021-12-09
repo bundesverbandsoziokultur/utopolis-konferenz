@@ -371,7 +371,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz2021.utopolis.online\/zeitplan\/"
+                 "value":"https:\/\/konferenz2021.utopolis.online\/zeitplan\/?script=false"
                 }],
          "type":"tilelayer",
          "visible":true,
