@@ -435,7 +435,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/x2ywxNiDdK4"
+                 "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLq2MKDuN2PcyQaN1SpVG3n7o3CEpUaWji"
                 }],
          "type":"tilelayer",
          "visible":true,
