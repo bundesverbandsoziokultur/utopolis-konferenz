@@ -20,6 +20,17 @@
          "id":13,
          "name":"url_kino",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLq2MKDuN2PcxcelCArik6mX6w-8cqPh10"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen;camera;microphone;display-capture"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,
