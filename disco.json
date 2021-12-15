@@ -107,7 +107,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/assets\/audio\/WALL_RA_PSYCHEDELICA.mp3"
+                 "value":"\/assets\/audio\/WALL_RA_utopolis_reloaded.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -318,7 +318,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"kino.json#start_kino"
+                 "value":"kino.json#start_kino_foyer"
                 }],
          "type":"tilelayer",
          "visible":true,
