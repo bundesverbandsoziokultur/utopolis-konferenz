@@ -55,6 +55,12 @@
          "id":14,
          "name":"jitsi_kino",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"kino"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,
